@@ -1,0 +1,3 @@
+.env - secret KEY, Enviroment variables
+.gitignore - chache files,.env
+requirements.txt - All Python leberaries

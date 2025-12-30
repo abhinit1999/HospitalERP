@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+mymongo
+python-dotenv # this is to read the secrect keys from .env file
+passlib[bcrypt] # this is for hashing the passwords (encryption decryption)
+python-jose # this is for creating and verifying JWT tokens
+jsonschema # to validate the data
+email-validator # to validate email addresses
